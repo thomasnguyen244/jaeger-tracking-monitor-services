@@ -15,3 +15,9 @@ The Jaeger Tracing backend includes 3 main components:
 Main config file: ``docker-compose.yml``
 
 Configuration file for Elasticsearch is ``config/elasticsearch.yml``
+
+### Jaeger Collector
+
+### Jaeger Agent
+
+### Jaeger Query
